@@ -12,7 +12,8 @@ It focuses on preventing common attack vectors, blocking spam at the source, and
 
 ## Screenshot
 
-![Accolades Guard](assets/screenshots/accolades-guard-dashboard.png)
+![Accolades Guard Dashboard](https://raw.githubusercontent.com/luc-constantin/security-WordPress-plugin/main/accolades-guard-dashboard.png)
+
 
 ---
 
